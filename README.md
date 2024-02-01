@@ -386,3 +386,5 @@ void TcpConnection::connectEstablished()
 
 以后有新的连接的时候也就重复如上的操作，也就对连接进行处理并能够执行用户设置的回调函数了
 
+
+
