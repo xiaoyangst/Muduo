@@ -1,4 +1,4 @@
-![Muduo](../Muduo/images/Muduo.png)
+![Muduo](./images/Muduo.png)
 
 # 理解Muduo
 
